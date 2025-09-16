@@ -16,4 +16,4 @@ The landing page focuses on practicing fundamental web development concepts such
 
 
 ## 📸 Preview
-![Final Screenshot](/Final%20Website.png)
+![Final Screenshot](/Preview.png)
